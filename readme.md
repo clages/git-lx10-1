@@ -1,5 +1,8 @@
 
 #CONFIGURACION INICIAL
 
-Agregar link [alimni](https://alumni.education/)
+Agregar link [alumni](https://alumni.education/)
 
+___Modificacion___
+
+***Agregado***
